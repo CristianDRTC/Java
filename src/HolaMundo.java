@@ -6,7 +6,7 @@ public class HolaMundo {
         fichas[0] = 3412760;
         fichas[1] = 3412750;
 
-        String[][] competencias = new String[20][2];
+        String[][] competencias = new String[2][19];
 
         competencias[0][0] = "Python";
         competencias[1][0] = "Edison";
@@ -48,7 +48,7 @@ public class HolaMundo {
         competencias[1][18] = "Gustavo Bolaños";
 
 
-        String[][][] Estudiantes = new String[][][];
+        String[][][] Estudiantes = new String[2][14][3];
 
         Estudiantes[0][0][0] = "Cristian David";
         Estudiantes[0][0][1] = "Román Torres";
